@@ -1,0 +1,45 @@
+heirrop@some-vm-for-dz:~$ ./provider 127.0.0.1 7000
+Server successfully started working on port 7000
+Successfully read initial message from client
+Successfully added logger id=0
+Successfully read initial message from client
+Successfully added smoker id=0
+Successfully read initial message from client
+Successfully added smoker id=1
+Successfully read initial message from client
+Successfully added smoker id=2
+All smokers and logger connected to the server
+Server generated smoke_item id=1
+Successfully sent messages to all smokers about smoke_item_id=1
+Smoker id= got component and start smoking
+Server generated smoke_item id=0
+Successfully sent messages to all smokers about smoke_item_id=0
+Smoker id= got component and start smoking
+Server generated smoke_item id=2
+Successfully sent messages to all smokers about smoke_item_id=2
+Smoker id= got component and start smoking
+Server generated smoke_item id=1
+Successfully sent messages to all smokers about smoke_item_id=1
+Smoker id= got component and start smoking
+Server generated smoke_item id=0
+Successfully sent messages to all smokers about smoke_item_id=0
+Smoker id= got component and start smoking
+Server generated smoke_item id=2
+Successfully sent messages to all smokers about smoke_item_id=2
+Smoker id= got component and start smoking
+Server generated smoke_item id=2
+Successfully sent messages to all smokers about smoke_item_id=2
+Smoker id= got component and start smoking
+Server generated smoke_item id=2
+Successfully sent messages to all smokers about smoke_item_id=2
+Smoker id= got component and start smoking
+Server generated smoke_item id=0
+Successfully sent messages to all smokers about smoke_item_id=0
+Smoker id= got component and start smoking
+Server generated smoke_item id=1
+Successfully sent messages to all smokers about smoke_item_id=1
+Smoker id= got component and start smoking
+Server generated smoke_item id=2
+Successfully sent messages to all smokers about smoke_item_id=2
+Smoker id= got component and start smoking
+^C

@@ -1,0 +1,47 @@
+heirrop@some-vm-for-dz:~$ ./smoker 127.0.0.1 7000 0
+Smoker id=0 start working!
+Smoker 0 sent first message to the server
+Smoker id=0 got message from server
+Smoker id=0 got comp id=1 from server
+Smoker id=0 is not suitable for component on the table
+Smoker id=0 got message from server
+Smoker id=0 got comp id=0 from server
+Smoker id=0 got the comp from server
+Smoker id=0 start smoking
+Smoker id=0 stop smoking
+Smoker id=0 got message from server
+Smoker id=0 got comp id=2 from server
+Smoker id=0 is not suitable for component on the table
+Smoker id=0 got message from server
+Smoker id=0 got comp id=1 from server
+Smoker id=0 is not suitable for component on the table
+Smoker id=0 got message from server
+Smoker id=0 got comp id=0 from server
+Smoker id=0 got the comp from server
+Smoker id=0 start smoking
+Smoker id=0 stop smoking
+Smoker id=0 got message from server
+Smoker id=0 got comp id=2 from server
+Smoker id=0 is not suitable for component on the table
+Smoker id=0 got message from server
+Smoker id=0 got comp id=2 from server
+Smoker id=0 is not suitable for component on the table
+Smoker id=0 got message from server
+Smoker id=0 got comp id=2 from server
+Smoker id=0 is not suitable for component on the table
+Smoker id=0 got message from server
+Smoker id=0 got comp id=0 from server
+Smoker id=0 got the comp from server
+Smoker id=0 start smoking
+Smoker id=0 stop smoking
+Smoker id=0 got message from server
+Smoker id=0 got comp id=1 from server
+Smoker id=0 is not suitable for component on the table
+Smoker id=0 got message from server
+Smoker id=0 got comp id=2 from server
+Smoker id=0 is not suitable for component on the table
+Smoker id=0 got message from server
+Smoker id=0 got comp id=0 from server
+Smoker id=0 got the comp from server
+Smoker id=0 start smoking
+Smoker id=0 stop smoking

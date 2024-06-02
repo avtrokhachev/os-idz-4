@@ -1,0 +1,70 @@
+heirrop@some-vm-for-dz:~$ ./logger 127.0.0.1 7000
+Logger start working!
+Logger sent first message to the server
+Logger got message from server: All smokers and logger connected to the server
+
+Logger got message from server: Server generated smoke_item id=1
+
+Logger got message from server: Successfully sent messages to all smokers about smoke_item_id=1
+
+Logger got message from server: Smoker id= got component and start smoking
+
+Logger got message from server: Server generated smoke_item id=0
+
+Logger got message from server: Successfully sent messages to all smokers about smoke_item_id=0
+
+Logger got message from server: Smoker id= got component and start smoking
+
+Logger got message from server: Server generated smoke_item id=2
+
+Logger got message from server: Successfully sent messages to all smokers about smoke_item_id=2
+
+Logger got message from server: Smoker id= got component and start smoking
+
+Logger got message from server: Server generated smoke_item id=1
+
+Logger got message from server: Successfully sent messages to all smokers about smoke_item_id=1
+
+Logger got message from server: Smoker id= got component and start smoking
+
+Logger got message from server: Server generated smoke_item id=0
+
+Logger got message from server: Successfully sent messages to all smokers about smoke_item_id=0
+
+Logger got message from server: Smoker id= got component and start smoking
+
+Logger got message from server: Server generated smoke_item id=2
+
+Logger got message from server: Successfully sent messages to all smokers about smoke_item_id=2
+
+Logger got message from server: Smoker id= got component and start smoking
+
+Logger got message from server: Server generated smoke_item id=2
+
+Logger got message from server: Successfully sent messages to all smokers about smoke_item_id=2
+
+Logger got message from server: Smoker id= got component and start smoking
+
+Logger got message from server: Server generated smoke_item id=2
+
+Logger got message from server: Successfully sent messages to all smokers about smoke_item_id=2
+
+Logger got message from server: Smoker id= got component and start smoking
+
+Logger got message from server: Server generated smoke_item id=0
+
+Logger got message from server: Successfully sent messages to all smokers about smoke_item_id=0
+
+Logger got message from server: Smoker id= got component and start smoking
+
+Logger got message from server: Server generated smoke_item id=1
+
+Logger got message from server: Successfully sent messages to all smokers about smoke_item_id=1
+
+Logger got message from server: Smoker id= got component and start smoking
+
+Logger got message from server: Server generated smoke_item id=2
+
+Logger got message from server: Successfully sent messages to all smokers about smoke_item_id=2
+
+Logger got message from server: Smoker id= got component and start smoking
